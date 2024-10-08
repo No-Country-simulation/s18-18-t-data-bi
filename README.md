@@ -3,4 +3,5 @@
 ## Lista de Presentes
 
 - [X] Lucel Da Silva
-- [X] Beverly Gonzalez 
+- [X] Beverly Gonzalez
+- [X] Daniel Carrillo
