@@ -6,3 +6,4 @@
 - [X] Beverly Gonzalez
 - [X] Daniel Carrillo
 - [X] Nicolás Stassi
+- [X] Tomás Berni
