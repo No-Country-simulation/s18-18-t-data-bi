@@ -44,15 +44,15 @@ FireWatch sigue una metodología **Agile Scrum** apoyada en **Microsoft Fabric**
 - **Historial de incendios**: Visualización de datos históricos para el análisis de tendencias.
 - **Tableros informativos**: Mapas y gráficos creados en Power BI para ilustrar áreas afectadas y datos relevantes.
 
-### Herramientas utilizadas en el proyecto
+## Herramientas utilizadas en el proyecto
 
 | Herramienta         | Logo                                     | Descripción                                                                                                           |
 |---------------------|------------------------------------------|----------------------------------------------|
-| **Microsoft Fabric**| <img src="https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming/Fabric_final_x256.png" width="100"> | Plataforma utilizada para el manejo de datos y procesamiento en tiempo real desde la API FIRMS. |
-| **Power BI**        | <img src="[/mnt/data/Create_a_Power_BI_logo_in_PNG_format_with_transpar.png](https://e7.pngegg.com/pngimages/327/384/png-clipart-power-bi-business-intelligence-microsoft-azure-microsoft-dynamics-cloud-computing-cloud-computing-angle-text-thumbnail.png)" width="100"> | Herramienta de visualización de datos para crear tableros informativos. |
-| **Slack**           | <img src="/mnt/data/Create_a_Slack_logo_in_PNG_format_with_transpar.png" width="100"> | Plataforma de comunicación en equipo.         |
-| **Asana**           | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Asana_logo.png" width="70"> | Gestión de tareas y proyectos.                |
-| **Google Drive**    | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/1024px-Google_Drive_icon_%282020%29.svg.png?20221103153031" width="50"> | Almacenamiento y sincronización de archivos.  |
+| **Microsoft Fabric** | <img src="https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming/Fabric_final_x256.png" width="100" height="100"> | Plataforma utilizada para el manejo de datos y procesamiento en tiempo real desde la API FIRMS. |
+| **Power BI**        | <img src="https://seeklogo.com/vector-logo/316809/microsoft-power-bi" width="100" height="100"> | Herramienta de visualización de datos para crear tableros informativos. |
+| **Slack**           | <img src="https://stickpng.com/img/icons-logos-emojis/tech-companies/slack-logo" width="100" height="100"> | Plataforma de comunicación en equipo.         |
+| **Asana**           | <img src="https://seeklogo.com/free-vector-logos/asana" width="100" height="100"> | Gestión de tareas y proyectos.                |
+| **Google Drive**    | <img src="https://seeklogo.com/vector-logo/289125/google-drive" width="100" height="100"> | Almacenamiento y sincronización de archivos.  |
 
 ### Contacto:
 
