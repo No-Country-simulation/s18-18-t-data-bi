@@ -1,4 +1,4 @@
-# ✨🔥FireWatch: Monitoreo y Visualización de Incendios Forestales 🔥✨
+# 🔥FireWatch: Monitoreo y Visualización de Incendios Forestales 🔥
 
 ![image](https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Portada.jpg)
 
@@ -13,38 +13,38 @@
 - [**Herramientas utilizadas en el proyecto**](#herramientas-utilizadas-en-el-proyecto)
 - [**Contacto**](#contacto)
 
-### ✨🔥 Introducción 🔥✨
+### 🔥 Introducción 🔥
 FireWatch es un proyecto diseñado para el monitoreo y análisis de incendios forestales mediante la obtención diaria de datos proporcionados por la API FIRMS de la NASA. A través de esta API, FireWatch accede a información actualizada diariamente sobre ubicaciones de focos de calor que pueden indicar incendios activos en diversas regiones del mundo. Esta información es procesada y transformada utilizando Microsoft Fabric, permitiendo la creación de tableros visuales y mapas en Power BI que facilitan la interpretación de datos por parte de autoridades, investigadores y comunidades afectadas.
 
 El sistema no opera en tiempo real, sino que se actualiza una vez al día para obtener los datos más recientes disponibles. Esta periodicidad permite visualizar la ubicación de los incendios detectados el día anterior y realizar un análisis diario de su evolución y posible impacto ambiental. Mediante los tableros en Power BI, FireWatch ofrece mapas interactivos y gráficos que ilustran los datos relevantes de incendios, ayudando a los usuarios a tomar decisiones informadas y a monitorear patrones de actividad en áreas de interés.
 
-### ✨🔥 Objetivo 🔥✨
+### 🔥 Objetivo 🔥
 - **Monitoreo diario de incendios**: Visualización de incendios detectados con actualizaciones diarias.
 - **Reportes visuales**: Creación de tableros informativos en Power BI.
 - **Evaluación del impacto**: Visualización de la extensión de los incendios y su impacto en distintas regiones.
 
-### ✨🔥 Público Objetivo 🔥✨
+### 🔥 Público Objetivo 🔥
 Este proyecto está diseñado para:
 - **Autoridades de gestión de emergencias**: Para una respuesta informada y oportuna ante incendios forestales.
 - **Investigadores y científicos ambientales**: Para estudiar y analizar los datos de incendios actualizados diariamente.
 - **Comunidades locales**: Para recibir información actualizada y conocer la situación en su área.
 - **Periodistas ambientales**: Para contar con datos precisos y actualizados sobre incendios forestales.
 
-### ✨🔥 Metodología 🔥✨
+### 🔥 Metodología 🔥
 FireWatch sigue una metodología **Agile Scrum** apoyada en **Microsoft Fabric** para asegurar un flujo de trabajo optimizado desde la ingesta de datos de la API hasta la creación de tableros visuales.
 - **Ingesta de la API**: Consumo de la API FIRMS para obtener datos de incendios actualizados diariamente.
 - **Transformación y manejo de la información**: Uso de Microsoft Fabric para organizar y procesar los datos.
 - **Visualización**: Creación de tableros informativos en Power BI para mostrar la información de manera clara y accesible.
 
-### ✨🔥 Datos 🔥✨
+### 🔥 Datos 🔥
 - **FIRMS API**: Datos actualizados diariamente sobre incendios proporcionados por la NASA.
 
-### ✨🔥 Visualización en Power BI 🔥✨
+### 🔥 Visualización en Power BI 🔥
 - **Mapa de incendios activos**: Monitoreo diario de los incendios detectados por satélites.
 - **Historial de incendios**: Visualización de datos históricos para el análisis de tendencias.
 - **Tableros informativos**: Mapas y gráficos creados en Power BI para ilustrar áreas afectadas y datos relevantes.
 
-## ✨🔥 Herramientas utilizadas en el proyecto 🔥✨
+## 🔥 Herramientas utilizadas en el proyecto 🔥
 
 | Herramienta         | Logo                                     | Descripción                                                                                                           |
 |---------------------|------------------------------------------|----------------------------------------------|
@@ -54,7 +54,7 @@ FireWatch sigue una metodología **Agile Scrum** apoyada en **Microsoft Fabric**
 | **Google Drive**    | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/1024px-Google_Drive_icon_%282020%29.svg.png?20221103153031" width="100" height="100"> | Almacenamiento y sincronización de archivos.  |
 
 
-### ✨🔥 Contacto 🔥✨
+### 🔥 Contacto 🔥
 
 | Integrantes          |                                     | Rol                                     | GitHub                                        | LinkedIn                                                                           |
 |----------------------|-------------------------------------|-----------------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------|
