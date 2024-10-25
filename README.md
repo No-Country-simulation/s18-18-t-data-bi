@@ -49,10 +49,11 @@ FireWatch sigue una metodología **Agile Scrum** apoyada en **Microsoft Fabric**
 | Herramienta         | Logo                                     | Descripción                                                                                                           |
 |---------------------|------------------------------------------|----------------------------------------------|
 | **Microsoft Fabric** | <img src="https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming/Fabric_final_x256.png" width="100" height="100"> | Plataforma utilizada para el manejo de datos y procesamiento en tiempo real desde la API FIRMS. |
-| **Power BI**        | <img src="https://seeklogo.com/vector-logo/316809/microsoft-power-bi" width="100" height="100"> | Herramienta de visualización de datos para crear tableros informativos. |
-| **Slack**           | <img src="https://stickpng.com/img/icons-logos-emojis/tech-companies/slack-logo" width="100" height="100"> | Plataforma de comunicación en equipo.         |
-| **Asana**           | <img src="https://seeklogo.com/free-vector-logos/asana" width="100" height="100"> | Gestión de tareas y proyectos.                |
-| **Google Drive**    | <img src="https://seeklogo.com/vector-logo/289125/google-drive" width="100" height="100"> | Almacenamiento y sincronización de archivos.  |
+| **Power BI**        | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="100" height="100"> | Herramienta de visualización de datos para crear tableros informativos. |
+| **Slack**           | <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="100" height="100"> | Plataforma de comunicación en equipo.         |
+| **Asana**           | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Asana_logo.png" width="100" height="100"> | Gestión de tareas y proyectos.                |
+| **Google Drive**    | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/1024px-Google_Drive_icon_%282020%29.svg.png?20221103153031" width="100" height="100"> | Almacenamiento y sincronización de archivos.  |
+
 
 ### Contacto:
 
