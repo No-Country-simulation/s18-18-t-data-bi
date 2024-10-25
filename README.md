@@ -1,7 +1,7 @@
 # FireWatch: Monitoreo y Predicción de Incendios Forestales
 Repositorio del proyecto FireWatch para monitoreo y análisis predictivo de incendios forestales usando datos de FIRMS de la NASA.
 
-![image](https://github.com/No-Country-simulation/s17-20-t-data-bi/blob/main/multimedia/other/race.jpg)
+![image](https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Portada.jpg)
 
 ### 📝 Índice:
 
