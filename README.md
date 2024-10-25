@@ -6,7 +6,6 @@
 
 - [**Introducción**](#introducción)
 - [**Objetivo**](#objetivo)
-- [**Público Objetivo**](#público-objetivo)
 - [**Metodología**](#metodología)
 - [**Datos**](#datos)
 - [**Visualización en Power BI**](#visualización-en-power-bi)
@@ -23,7 +22,6 @@ El sistema no opera en tiempo real, sino que se actualiza una vez al día para o
 - **Reportes visuales**: Creación de tableros informativos en Power BI.
 - **Evaluación del impacto**: Visualización de la extensión de los incendios y su impacto en distintas regiones.
 
-### 🔥 Público Objetivo 🔥
 Este proyecto está diseñado para:
 - **Autoridades de gestión de emergencias**: Para una respuesta informada y oportuna ante incendios forestales.
 - **Investigadores y científicos ambientales**: Para estudiar y analizar los datos de incendios actualizados diariamente.
