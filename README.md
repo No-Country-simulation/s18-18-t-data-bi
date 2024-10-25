@@ -49,8 +49,9 @@ FireWatch sigue una metodología **Agile Scrum** apoyada en **Microsoft Fabric**
 | Herramienta         | Logo                                     | Descripción                                                                                                           |
 |---------------------|------------------------------------------|----------------------------------------------|
 | **Microsoft Fabric**| <img src="https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming/Fabric_final_x256.png" width="100"> | Plataforma utilizada para el manejo de datos y procesamiento en tiempo real desde la API FIRMS. |
-| **Power BI**        | <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Analysts_PBI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&qlt=99&fmt=png-alpha&fit=constrain" width="100"> | Herramienta de visualización de datos para crear tableros informativos. |
-| **Slack**           | <img src="https://toppng.com/uploads/preview/slack-new-logo-icon-11609376883z32jbkf8kg.png" width="45"> | Plataforma de comunicación en equipo.         |
+| **Power BI**        | <img src="/mnt/data/Create_a_Power_BI_logo_in_PNG_format_with_transpar.png" width="100"> | Herramienta de visualización de datos para crear tableros informativos. |
+| **Slack**           | <img src="/mnt/data/Create_a_Slack_logo_in_PNG_format_with_transpar.png" width="100"> | Plataforma de comunicación en equipo.         |
+| **Asana**           | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Asana_logo.png" width="70"> | Gestión de tareas y proyectos.                |
 | **Google Drive**    | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/1024px-Google_Drive_icon_%282020%29.svg.png?20221103153031" width="50"> | Almacenamiento y sincronización de archivos.  |
 
 ### Contacto:
