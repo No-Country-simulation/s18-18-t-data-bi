@@ -57,10 +57,7 @@ FireWatch sigue una metodología **Agile Scrum** apoyada en **Microsoft Fabric**
 
 | Integrantes          |                                     | Rol                                     | GitHub                                        | LinkedIn                                                                           |
 |----------------------|-------------------------------------|-----------------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------|
-| Antonia Soler        | <img src="https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Antonia.jpg" width="100" height="100" style="border-radius: 50%;">      
-| Machine Learning Developer               
-| [GitHub](https://github.com/asoler2004)  
-| [LinkedIn](https://www.linkedin.com/in/antonia-soler-7a2811230)                    |
+| Antonia Soler        | <img src="https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Antonia.jpg" width="100" height="100" style="border-radius: 50%;">      | Machine Learning Developer               | [GitHub](https://github.com/asoler2004)  | [LinkedIn](https://www.linkedin.com/in/antonia-soler-7a2811230)                    |
 | Daniel Carrillo      | <img src="https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Daniel.jpg" width="100" height="100" style="border-radius: 50%;">  | Data Scientist                           | [GitHub](https://github.com/Carrillo1992)   | [LinkedIn](https://www.linkedin.com/in/daniel-carrillo-b04a862a2)                            |
 | Esteban Gonzalez     | <img src="https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Portada.jpg" width="100" height="100" style="border-radius: 50%;">     | Data Scientist                           | [GitHub](https://github.com/andresgvelasquez) | [LinkedIn](https://www.linkedin.com/in/andres946/)                    |
 | Lucel Da Silva       | <img src="https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Lucel.jpg" width="100" height="100" style="border-radius: 50%;">      | Data Analytics                           | [GitHub](https://github.com/luceldasilva)                                  | [LinkedIn](https://www.linkedin.com/in/luceldasilva/)                            |
