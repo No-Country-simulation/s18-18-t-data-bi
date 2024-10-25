@@ -66,5 +66,3 @@ FireWatch sigue una metodología **Agile Scrum** apoyada en **Microsoft Fabric**
 | Nicolás Stassi       | <img src="https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Nicolas.jpg" width="100" height="100" style="border-radius: 50%;">  | Data Analytics                           | [GitHub](https://github.com/nicostassi04) | [LinkedIn](https://www.linkedin.com/in/nicolás-stassi/)                             |
 
 ---
-
-Este código ya contiene todos los enlaces y nombres actualizados de los integrantes.
