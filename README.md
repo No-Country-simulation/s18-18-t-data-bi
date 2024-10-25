@@ -1,5 +1,4 @@
-# FireWatch: Monitoreo y Predicción de Incendios Forestales
-Repositorio del proyecto FireWatch para monitoreo y análisis predictivo de incendios forestales usando datos de FIRMS de la NASA.
+# FireWatch: Monitoreo y Visualización de Incendios Forestales
 
 ![image](https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Portada.jpg)
 
@@ -14,47 +13,46 @@ Repositorio del proyecto FireWatch para monitoreo y análisis predictivo de ince
 - [**Herramientas utilizadas en el proyecto**](#herramientas-utilizadas-en-el-proyecto)
 - [**Contacto**](#contacto)
 
-### Introducción:
-FireWatch permite monitorear y analizar incendios forestales en tiempo real mediante datos satelitales de FIRMS, identificando patrones de comportamiento del fuego y ofreciendo modelos predictivos para la gestión de emergencias y protección ambiental.
+### Introducción
+FireWatch es un proyecto diseñado para el monitoreo y análisis de incendios forestales mediante la obtención diaria de datos proporcionados por la API FIRMS de la NASA. A través de esta API, FireWatch accede a información actualizada diariamente sobre ubicaciones de focos de calor que pueden indicar incendios activos en diversas regiones del mundo. Esta información es procesada y transformada utilizando Microsoft Fabric, permitiendo la creación de tableros visuales y mapas en Power BI que facilitan la interpretación de datos por parte de autoridades, investigadores y comunidades afectadas.
 
-### Objetivo:
-- **Monitoreo en tiempo real**: Visualización de incendios activos en el mapa.
-- **Reportes visuales**: Dashboards interactivos con mapas y gráficos.
-- **Modelos predictivos**: Algoritmos de machine learning para anticipar incendios.
-- **Evaluación del impacto**: Análisis de efectos en el ecosistema y calidad del aire.
+El sistema no opera en tiempo real, sino que se actualiza una vez al día para obtener los datos más recientes disponibles. Esta periodicidad permite visualizar la ubicación de los incendios detectados el día anterior y realizar un análisis diario de su evolución y posible impacto ambiental. Mediante los tableros en Power BI, FireWatch ofrece mapas interactivos y gráficos que ilustran los datos relevantes de incendios, ayudando a los usuarios a tomar decisiones informadas y a monitorear patrones de actividad en áreas de interés.
 
-### Público Objetivo:
-Este proyecto es ideal para:
-- **Autoridades de gestión de emergencias**: Para la respuesta oportuna ante incendios.
-- **Investigadores y científicos ambientales**: Para estudiar y analizar patrones históricos de incendios.
-- **Comunidades locales**: Para recibir alertas tempranas y reducir riesgos.
-- **Periodistas ambientales**: Para reportar incendios de manera informada y precisa.
+### Objetivo
+- **Monitoreo diario de incendios**: Visualización de incendios detectados con actualizaciones diarias.
+- **Reportes visuales**: Creación de tableros informativos en Power BI.
+- **Evaluación del impacto**: Visualización de la extensión de los incendios y su impacto en distintas regiones.
 
-### Metodología:
-FireWatch sigue una metodología **Agile Scrum** con enfoque **CRISP-DM**:
-- **Daily Stand-Up**: Reuniones diarias para discutir progreso.
-- **TL MEET**: Reuniones de equipo para coordinación y colaboración.
-- **Revisión de Sprints** y **Retrospectivas** al final de cada sprint para mejorar continuamente.
+### Público Objetivo
+Este proyecto está diseñado para:
+- **Autoridades de gestión de emergencias**: Para una respuesta informada y oportuna ante incendios forestales.
+- **Investigadores y científicos ambientales**: Para estudiar y analizar los datos de incendios actualizados diariamente.
+- **Comunidades locales**: Para recibir información actualizada y conocer la situación en su área.
+- **Periodistas ambientales**: Para contar con datos precisos y actualizados sobre incendios forestales.
 
-### Datos:
-- **FIRMS API**: Datos en tiempo real sobre incendios.
-- **Dataset histórico**: [Kaggle](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020/data?select=lap_times.csv)
+### Metodología
+FireWatch sigue una metodología **Agile Scrum** apoyada en **Microsoft Fabric** para asegurar un flujo de trabajo optimizado desde la ingesta de datos de la API hasta la creación de tableros visuales.
+- **Ingesta de la API**: Consumo de la API FIRMS para obtener datos de incendios actualizados diariamente.
+- **Transformación y manejo de la información**: Uso de Microsoft Fabric para organizar y procesar los datos.
+- **Visualización**: Creación de tableros informativos en Power BI para mostrar la información de manera clara y accesible.
 
-### Visualización en Power BI:
-- **Mapa de incendios activos**: Monitoreo en tiempo real de los incendios detectados por satélites.
-- **Historial de incendios**: Visualización de datos históricos para análisis de tendencias.
-- **Predicciones de incendios futuros**: Mapas de riesgo generados con machine learning para áreas de alta probabilidad de incendios.
+### Datos
+- **FIRMS API**: Datos actualizados diariamente sobre incendios proporcionados por la NASA.
 
-### Herramientas utilizadas en el proyecto:
+### Visualización en Power BI
+- **Mapa de incendios activos**: Monitoreo diario de los incendios detectados por satélites.
+- **Historial de incendios**: Visualización de datos históricos para el análisis de tendencias.
+- **Tableros informativos**: Mapas y gráficos creados en Power BI para ilustrar áreas afectadas y datos relevantes.
 
-|  Herramienta    |   Logo                                    | Descripción                                                                                                           |
-|----------------------|-----------------------------------------|----------------------------------------------|
-| **Pandas**           | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" width="100"> | Librería para análisis de datos en Python.          |
-| **Scikit-learn**     | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"> | Algoritmos de machine learning.                  |
-| **Power BI**         | <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Analysts_PBI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&qlt=99&fmt=png-alpha&fit=constrain" width="100"> | Visualización avanzada de datos.               |
-| **Slack**            | <img src="https://toppng.com/uploads/preview/slack-new-logo-icon-11609376883z32jbkf8kg.png" width="45"> | Plataforma de comunicación en equipo.         |
-| **Asana**            | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Asana_logo.png" width="70"> | Gestión de tareas y proyectos.                |
-| **Google Drive**     | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/1024px-Google_Drive_icon_%282020%29.svg.png?20221103153031" width="50"> | Almacenamiento y sincronización de archivos.  |
+### Herramientas utilizadas en el proyecto
+
+| Herramienta         | Logo                                     | Descripción                                                                                                           |
+|---------------------|------------------------------------------|----------------------------------------------|
+| **Microsoft Fabric**| <img src="https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming/Fabric_final_x256.png" width="100"> | Plataforma utilizada para el manejo de datos y procesamiento en tiempo real desde la API FIRMS. |
+| **Power BI**        | <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Analysts_PBI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&qlt=99&fmt=png-alpha&fit=constrain" width="100"> | Herramienta de visualización de datos para crear tableros informativos. |
+| **Slack**           | <img src="https://toppng.com/uploads/preview/slack-new-logo-icon-11609376883z32jbkf8kg.png" width="45"> | Plataforma de comunicación en equipo.         |
+| **Asana**           | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Asana_logo.png" width="70"> | Gestión de tareas y proyectos.                |
+| **Google Drive**    | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/1024px-Google_Drive_icon_%282020%29.svg.png?20221103153031" width="50"> | Almacenamiento y sincronización de archivos.  |
 
 ### Contacto:
 
