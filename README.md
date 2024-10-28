@@ -46,7 +46,7 @@ FireWatch sigue una metodología **Agile Scrum** apoyada en **Microsoft Fabric**
 
 | Herramienta         | Logo                                     | Descripción                                                                                                           |
 |---------------------|------------------------------------------|----------------------------------------------|
-| **Microsoft Fabric** | <img src="https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming/Fabric_final_x256.png" width="100" height="100"> | Plataforma utilizada para el manejo de datos y procesamiento en tiempo real desde la API FIRMS. |
+| **Microsoft Fabric** | <img src="https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming-old-version/Fabric_final_x256.png" width="100" height="100"> | Plataforma utilizada para el manejo de datos y procesamiento en tiempo real desde la API FIRMS. |
 | **Power BI**        | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="100" height="100"> | Herramienta de visualización de datos para crear tableros informativos. |
 | **Slack**           | <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="100" height="100"> | Plataforma de comunicación en equipo.         |
 | **Google Drive**    | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/1024px-Google_Drive_icon_%282020%29.svg.png?20221103153031" width="100" height="100"> | Almacenamiento y sincronización de archivos.  |
