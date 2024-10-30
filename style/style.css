@@ -1,7 +1,7 @@
 /* Estilos generales */
 body {
     font-family: Arial;
-    background-color: #e0e0e0;
+    background-color: #F7EFC7;
     padding: 20px;
     display: flex;
     justify-content: center;
@@ -73,7 +73,7 @@ input[type="text"] {
 
 /* Estilos para el emoticon del asistente */
 .ai-bubble::before {
-    content: "\1F999";
+    content: "\1F916";
     position: absolute;
     top: -10px;
     left: -10px;
